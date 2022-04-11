@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Dhruv Sahu</h1>
+<h1 align="center">Hi , I'm Dhruv Sahu</h1>
 <h3 align="center">Exploring Data Science and Machine Learning</h3>
 
 - 🌱 I’m currently learning **Python for Data Science and Machine Learning**
