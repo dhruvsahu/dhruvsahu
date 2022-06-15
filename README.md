@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **App Development**
 
-- 💬 Ask me about **Java**
+- 💬 Ask me about **Java** and **Python**
 
 - 📫 How to reach me **dhruvsahu2000@gmail.com**
 
