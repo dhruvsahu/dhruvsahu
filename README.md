@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dhruv Sahu</h1>
-<h3 align="center">There is code in my bugs.™</h3>
+<h3 align="center">There is code in my bugs.™ ©</h3>
 
 - 🔭 I’m currently working on **Machine Learning**
 
