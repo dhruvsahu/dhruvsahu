@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dhruv Sahu</h1>
 <h3 align="center">There is code in my bugs.</h3>
 
-- 🔭 I’m currently working on **Machine Learning**
+- 🔭 I’m currently working on **Machine Learning** and **OpenAI**
 
 - 📫 How to reach me **dhruvsahu2000@gmail.com**
 
